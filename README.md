@@ -1,0 +1,1 @@
+# ecommerce_web_nextjs
